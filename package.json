@@ -1,0 +1,19 @@
+{
+  "name": "api-design-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RinatValiullov/api-design-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RinatValiullov/api-design-nodejs/issues"
+  },
+  "homepage": "https://github.com/RinatValiullov/api-design-nodejs#readme"
+}
