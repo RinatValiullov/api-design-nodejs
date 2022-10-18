@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RinatValiullov/api-design-nodejs/issues"
   },
-  "homepage": "https://github.com/RinatValiullov/api-design-nodejs#readme"
+  "homepage": "https://github.com/RinatValiullov/api-design-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
